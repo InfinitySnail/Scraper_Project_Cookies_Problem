@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*.pyc
+*.*~
+pyenv
+#*#
+cookies.bin
+data.sqlite
+output

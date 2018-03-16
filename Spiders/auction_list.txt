@@ -1,0 +1,5 @@
+# Put your individual auction links to this file and run event scraper
+# Sample URL:
+#
+# AuctionSiteURL1.com/auction/view?auctionId=6392202
+

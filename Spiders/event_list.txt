@@ -1,0 +1,6 @@
+# Put your event links to this file and run event scraper
+# Sample URL:
+#
+# AuctionSiteURL1.com/pastbidresults?eventId=8966
+AuctionSiteURL1.com/pastbidresults?eventId=9753
+
